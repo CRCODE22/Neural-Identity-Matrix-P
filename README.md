@@ -1,2 +1,2 @@
-# Neural-Identity-Matrix-P
-Neural Identity Matrix For Pinokio.
+A pinokio script for Neural identity Matrix:
+https://github.com/CRCODE22/Neural-Identity-Matrix
